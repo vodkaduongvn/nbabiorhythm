@@ -1,0 +1,987 @@
+[
+  {
+    "Team": "Philadelphia 76ers",
+    "Players": [
+      {
+        "Name": "James Harden",
+        "Birthday": "1989/08/26",
+        "IsActive": true
+      },
+      {
+        "Name": "De'Anthony Melton",
+        "Birthday": "1998/05/28",
+        "IsActive": true
+      },
+      {
+        "Name": "Tobias Harris",
+        "Birthday": "1992/07/15",
+        "IsActive": true
+      },
+      {
+        "Name": "P.J. Tucker",
+        "Birthday": "1985/05/05",
+        "IsActive": true
+      },
+      {
+        "Name": "Joel Embiid",
+        "Birthday": "1994/03/16",
+        "IsActive": true
+      },
+      {
+        "Name": "Danuel House Jr",
+        "Birthday": "1993/06/07",
+        "IsActive": false
+      },
+      {
+        "Name": "Tyrese Maxey",
+        "Birthday": "2000/11/04",
+        "IsActive": false
+      },
+      {
+        "Name": "Georges Niang",
+        "Birthday": "1993/06/17",
+        "IsActive": false
+      },
+      {
+        "Name": "Matisse Thybulle",
+        "Birthday": "1997/03/04",
+        "IsActive": false
+      }
+    ]
+  },
+  {
+    "Team": "Washington Wizards",
+    "Players": [
+      {
+        "Name": "Monte Morris",
+        "Birthday": "1995/06/27",
+        "IsActive": true
+      },
+      {
+        "Name": "Bradley Beal",
+        "Birthday": "1993/06/28",
+        "IsActive": false
+      },
+      {
+        "Name": "Deni Avdija",
+        "Birthday": "2001/01/03",
+        "IsActive": false
+      },
+      {
+        "Name": "Kyle Kuzma",
+        "Birthday": "1995/07/24",
+        "IsActive": true
+      },
+      {
+        "Name": "Kristaps Porziņģis",
+        "Birthday": "1995/08/02",
+        "IsActive": true
+      },
+      {
+        "Name": "Will Barton",
+        "Birthday": "1991/01/06",
+        "IsActive": false
+      },
+      {
+        "Name": "Johnny Davis",
+        "Birthday": "2002/02/27",
+        "IsActive": false
+      },
+      {
+        "Name": "Rui Hachimura",
+        "Birthday": "1998/02/08",
+        "IsActive": false
+      },
+      {
+        "Name": "Delon Wright",
+        "Birthday": "1992/04/26",
+        "IsActive": false
+      },
+      {
+        "Name": "Daniel Gafford",
+        "Birthday": "October 1, 1998",
+        "IsActive": true
+      },
+      {
+        "Name": "Corey Kispert",
+        "Birthday": "March 3, 1999",
+        "IsActive": true
+      }
+    ]
+  },
+  {
+    "Team": "Atlanta Hawks",
+    "Players": [
+      {
+        "Name": "Trae Young",
+        "Birthday": "1998/09/19",
+        "IsActive": false
+      },
+      {
+        "Name": "D. Murray",
+        "Birthday": "1996/09/19",
+        "IsActive": true
+      },
+      {
+        "Name": "bogdan bogdanović",
+        "Birthday": "1992/08/18",
+        "IsActive": false
+      },
+      {
+        "Name": "John Collins",
+        "Birthday": "1997/09/23",
+        "IsActive": true
+      },
+      {
+        "Name": "O. Okongwu",
+        "Birthday": "2000/12/11",
+        "IsActive": true
+      },
+      {
+        "Name": "Clint Capela",
+        "Birthday": "1994/05/18",
+        "IsActive": false
+      },
+      {
+        "Name": "De'Andre Hunter",
+        "Birthday": "1997/12/02",
+        "IsActive": false
+      },
+      {
+        "Name": "Jarrett Culver",
+        "Birthday": "1999/02/020",
+        "IsActive": false
+      },
+      {
+        "Name": "AJ Griffin",
+        "Birthday": "2003/08/25",
+        "IsActive": true
+      },
+      {
+        "Name": "Aaron Holiday",
+        "Birthday": "September 30, 1996",
+        "IsActive": true
+      }
+    ]
+  },
+  {
+    "Team": "Indiana Pacers",
+    "Players": [
+      {
+        "Name": "T. Haliburton",
+        "Birthday": "2000/02/29",
+        "IsActive": true
+      },
+      {
+        "Name": "A. Nembhard",
+        "Birthday": "2000/01/16",
+        "IsActive": true
+      },
+      {
+        "Name": "Buddy Hield",
+        "Birthday": "1992/12/17",
+        "IsActive": true
+      },
+      {
+        "Name": "Aaron Nesmith",
+        "Birthday": "1999/10/16",
+        "IsActive": true
+      },
+      {
+        "Name": "Myles Turner",
+        "Birthday": "1996/03/24",
+        "IsActive": true
+      },
+      {
+        "Name": "T.J. McConnell",
+        "Birthday": "1992/03/25",
+        "IsActive": false
+      },
+      {
+        "Name": "Bennedict Mathurin",
+        "Birthday": "2002/06/19",
+        "IsActive": false
+      },
+      {
+        "Name": "Terry Taylor",
+        "Birthday": "1999/09/23",
+        "IsActive": false
+      },
+      {
+        "Name": "Chris Duarte",
+        "Birthday": "1997/06/13",
+        "IsActive": false
+      },
+      {
+        "Name": "Daniel Theis",
+        "Birthday": "1992/04/04",
+        "IsActive": false
+      },
+      {
+        "Name": "Goga Bitadze",
+        "Birthday": "1999/07/20",
+        "IsActive": false
+      }
+    ]
+  },
+  {
+    "Team": "New York Knicks",
+    "Players": [
+      {
+        "Name": "immanuel quickley",
+        "Birthday": "1999/06/17",
+        "IsActive": true
+      },
+      {
+        "Name": "Quentin Grimes",
+        "Birthday": "2000/05/08",
+        "IsActive": true
+      },
+      {
+        "Name": "RJ Barrett",
+        "Birthday": "2000/06/14",
+        "IsActive": true
+      },
+      {
+        "Name": "Julius Randle",
+        "Birthday": "1994/11/29",
+        "IsActive": true
+      },
+      {
+        "Name": "Mitchell Robinson",
+        "Birthday": "1998/04/01",
+        "IsActive": true
+      },
+      {
+        "Name": "Jalen Brunson",
+        "Birthday": "1996/08/31",
+        "IsActive": false
+      },
+      {
+        "Name": "Evan Fournier",
+        "Birthday": "1992/10/29",
+        "IsActive": false
+      },
+      {
+        "Name": "Isaiah Hartenstein",
+        "Birthday": "1998/05/05",
+        "IsActive": false
+      },
+      {
+        "Name": "Cam Reddish",
+        "Birthday": "September 1, 1999",
+        "IsActive": false
+      },
+      {
+        "Name": "Derrick Rose",
+        "Birthday": "October 4, 1988",
+        "IsActive": false
+      },
+      {
+        "Name": "Obi Toppin",
+        "Birthday": "March 4, 1998",
+        "IsActive": false
+      }
+    ]
+  },
+  {
+    "Team": "Dallas Mavericks",
+    "Players": [
+      {
+        "Name": "Luka Dončić",
+        "Birthday": "1999/02/28",
+        "IsActive": true
+      },
+      {
+        "Name": "Spencer Dinwiddie",
+        "Birthday": "1993/04/6",
+        "IsActive": true
+      },
+      {
+        "Name": "Tim Hardaway Jr.",
+        "Birthday": "1992/03/16",
+        "IsActive": true
+      },
+      {
+        "Name": "Dwight Powell",
+        "Birthday": "1991/07/20",
+        "IsActive": true
+      },
+      {
+        "Name": "Christian Wood",
+        "Birthday": "1995/09/27",
+        "IsActive": true
+      },
+      {
+        "Name": "Davis Bertans",
+        "Birthday": "November 12, 1992",
+        "IsActive": false
+      },
+      {
+        "Name": "Reggie Bullock",
+        "Birthday": "March 16, 1991",
+        "IsActive": false
+      },
+      {
+        "Name": "Dorian Finney-Smith",
+        "Birthday": "May 4, 1993",
+        "IsActive": false
+      },
+      {
+        "Name": "JaVale McGee",
+        "Birthday": "January 19, 1988",
+        "IsActive": false
+      }
+    ]
+  },
+  {
+    "Team": "Charlotte Hornets",
+    "Players": [
+      {
+        "Name": "LaMelo Ball",
+        "Birthday": "2001/08/22",
+        "IsActive": true
+      },
+      {
+        "Name": "Terry Rozier",
+        "Birthday": "1994/03/17",
+        "IsActive": true
+      },
+      {
+        "Name": "Gordon Hayward",
+        "Birthday": "1990/03/23",
+        "IsActive": true
+      },
+      {
+        "Name": "PJ Washington",
+        "Birthday": "1998/08/23",
+        "IsActive": true
+      },
+      {
+        "Name": "Mason Plumlee",
+        "Birthday": "1990/03/05",
+        "IsActive": true
+      }
+    ]
+  },
+  {
+    "Team": "Golden State Warriors",
+    "Players": [
+      {
+        "Name": "Jordan Poole",
+        "Birthday": "1999/06/19",
+        "IsActive": true
+      },
+      {
+        "Name": "Klay Thompson",
+        "Birthday": "1990/02/08",
+        "IsActive": false
+      },
+      {
+        "Name": "Donte DiVincenzo",
+        "Birthday": "1997/01/31",
+        "IsActive": true
+      },
+      {
+        "Name": "Draymond Green",
+        "Birthday": "1990/03/04",
+        "IsActive": true
+      },
+      {
+        "Name": "Kevon Looney",
+        "Birthday": "1996/02/06",
+        "IsActive": true
+      },
+      {
+        "Name": "Anthony Lamb",
+        "Birthday": "January 20, 1998",
+        "IsActive": true
+      }
+    ]
+  },
+  {
+    "Team": "Denver Nuggets",
+    "Players": [
+      {
+        "Name": "Jamal Murray",
+        "Birthday": "1997/02/23",
+        "IsActive": false
+      },
+      {
+        "Name": "Kentavious Caldwell-Pope",
+        "Birthday": "1993/02/18",
+        "IsActive": true
+      },
+      {
+        "Name": "Michael Porter Jr.",
+        "Birthday": "1998/06/29",
+        "IsActive": true
+      },
+      {
+        "Name": "Zeke Nnaji",
+        "Birthday": "2001/01/09",
+        "IsActive": true
+      },
+      {
+        "Name": "Nikola Jokić",
+        "Birthday": "1995/02/19",
+        "IsActive": true
+      },
+      {
+        "Name": "Bones Hyland",
+        "Birthday": "September 14, 2000",
+        "IsActive": true
+      }
+    ]
+  },
+  {
+    "Team": "Sacramento Kings",
+    "Players": [
+      {
+        "Name": "De'Aaron Fox",
+        "Birthday": "1997/12/20",
+        "IsActive": true
+      },
+      {
+        "Name": "Kevin Huerter",
+        "Birthday": "1998/08/27",
+        "IsActive": true
+      },
+      {
+        "Name": "Harrison Barnes",
+        "Birthday": "1992/05/30",
+        "IsActive": true
+      },
+      {
+        "Name": "Keegan Murray",
+        "Birthday": "2000/08/19",
+        "IsActive": true
+      },
+      {
+        "Name": "Alex Len",
+        "Birthday": "1993/06/16",
+        "IsActive": false
+      },
+      {
+        "Name": "Malik Monk",
+        "Birthday": "1998/02/04",
+        "IsActive": true
+      }
+    ]
+  },
+  {
+    "Team": "Minnesota Timberwolves",
+    "Players": [
+      {
+        "Name": "Kyle Anderson",
+        "Birthday": "September 20, 1993",
+        "IsActive": false
+      },
+      {
+        "Name": "Anthony Edwards",
+        "Birthday": "August 5, 2001",
+        "IsActive": true
+      },
+      {
+        "Name": "Rudy Gobert",
+        "Birthday": "June 26, 1992",
+        "IsActive": true
+      },
+      {
+        "Name": "Taurean Prince",
+        "Birthday": "March 22, 1994",
+        "IsActive": false
+      },
+      {
+        "Name": "D'Angelo Russell",
+        "Birthday": "February 23, 1996",
+        "IsActive": true
+      },
+      {
+        "Name": "Karl-Anthony Towns",
+        "Birthday": "November 15, 1995",
+        "IsActive": false
+      },
+      {
+        "Name": "Jordan McLaughlin",
+        "Birthday": "April 9, 1996",
+        "IsActive": false
+      },
+      {
+        "Name": "Jaden McDaniels",
+        "Birthday": "September 29, 2000",
+        "IsActive": true
+      },
+      {
+        "Name": "Nathan Knight",
+        "Birthday": "September 20, 1997",
+        "IsActive": false
+      },
+      {
+        "Name": "Austin Rivers",
+        "Birthday": "August 1, 1992",
+        "IsActive": true
+      }
+    ]
+  },
+  {
+    "Team": "New Orleans Pelicans",
+    "Players": [
+      {
+        "Name": "Zion Williamson",
+        "Birthday": "July 6, 2000",
+        "IsActive": true
+      },
+      {
+        "Name": "Jonas Valanciunas",
+        "Birthday": "May 6, 1992",
+        "IsActive": true
+      },
+      {
+        "Name": "Garrett Temple",
+        "Birthday": "May 8, 1986",
+        "IsActive": false
+      },
+      {
+        "Name": "Larry Nance Jr",
+        "Birthday": "January 1, 1993",
+        "IsActive": false
+      },
+      {
+        "Name": "CJ McCollum",
+        "Birthday": "September 19, 1991",
+        "IsActive": true
+      },
+      {
+        "Name": "Kira Lewis Jr.",
+        "Birthday": "April 6, 2001",
+        "IsActive": false
+      },
+      {
+        "Name": "Brandon Ingram",
+        "Birthday": "September 2, 1997",
+        "IsActive": false
+      },
+      {
+        "Name": "Devonte' Graham",
+        "Birthday": "February 22, 1995",
+        "IsActive": false
+      },
+      {
+        "Name": "Dyson Daniels",
+        "Birthday": "March 17, 2003",
+        "IsActive": false
+      },
+      {
+        "Name": "Naji Marshall",
+        "Birthday": "January 24, 1998",
+        "IsActive": true
+      },
+      {
+        "Name": "Trey Murphy",
+        "Birthday": "June 18, 2000",
+        "IsActive": true
+      }
+    ]
+  },
+  {
+    "Team": "Brooklyn Nets",
+    "Players": [
+      {
+        "Name": "Nic Claxton",
+        "Birthday": "April 17, 1999",
+        "IsActive": true
+      },
+      {
+        "Name": "Seth Curry",
+        "Birthday": "August 23, 1990",
+        "IsActive": false
+      },
+      {
+        "Name": "Kevin Durant",
+        "Birthday": "September 29, 1988",
+        "IsActive": true
+      },
+      {
+        "Name": "Joe Harris",
+        "Birthday": "September 6, 1991",
+        "IsActive": false
+      },
+      {
+        "Name": "Kyrie Irving",
+        "Birthday": "March 23, 1992",
+        "IsActive": true
+      },
+      {
+        "Name": "Patty Mills",
+        "Birthday": "August 11, 1988",
+        "IsActive": false
+      },
+      {
+        "Name": "Royce O'Neale",
+        "Birthday": "June 5, 1993",
+        "IsActive": true
+      },
+      {
+        "Name": "Ben Simmons",
+        "Birthday": "July 20, 1996",
+        "IsActive": true
+      },
+      {
+        "Name": "Yuta Watanabe",
+        "Birthday": "October 13, 1994",
+        "IsActive": false
+      },
+      {
+        "Name": "T.J. Warren",
+        "Birthday": "September 5, 1993",
+        "IsActive": false
+      }
+    ]
+  },
+  {
+    "Team": "Milwaukee Bucks",
+    "Players": [
+      {
+        "Name": "Grayson Allen",
+        "Birthday": "October 8, 1995",
+        "IsActive": true
+      },
+      {
+        "Name": "Giannis Antetokounmpo",
+        "Birthday": "December 6, 1994",
+        "IsActive": true
+      },
+      {
+        "Name": "Pat Connaughton",
+        "Birthday": "January 6, 1993",
+        "IsActive": true
+      },
+      {
+        "Name": "George Hill",
+        "Birthday": "May 4, 1986",
+        "IsActive": false
+      },
+      {
+        "Name": "Jrue Holiday",
+        "Birthday": "1990/06/12",
+        "IsActive": false
+      },
+      {
+        "Name": "Joe Ingles",
+        "Birthday": "October 2, 1987",
+        "IsActive": false
+      },
+      {
+        "Name": "Brook Lopez",
+        "Birthday": "April 1, 1988",
+        "IsActive": true
+      },
+      {
+        "Name": "Khris Middleton",
+        "Birthday": "August 12, 1991",
+        "IsActive": false
+      },
+      {
+        "Name": "Bobby Portis",
+        "Birthday": "February 10, 1995",
+        "IsActive": false
+      },
+      {
+        "Name": "Jordan Nwora",
+        "Birthday": "September 9, 1998",
+        "IsActive": false
+      },
+      {
+        "Name": "Jevon Carter",
+        "Birthday": "September 14, 1995",
+        "IsActive": true
+      }
+    ]
+  },
+  {
+    "Team": "Chicago Bulls",
+    "Players": [
+      {
+        "Name": "Alex Caruso",
+        "Birthday": "February 28, 1994",
+        "IsActive": false
+      },
+      {
+        "Name": "DeMar DeRozan",
+        "Birthday": "August 7, 1989",
+        "IsActive": true
+      },
+      {
+        "Name": "Andre Drummond",
+        "Birthday": "August 10, 1993",
+        "IsActive": false
+      },
+      {
+        "Name": "Derrick Jones Jr.",
+        "Birthday": "February 15, 1997",
+        "IsActive": false
+      },
+      {
+        "Name": "Zach LaVine",
+        "Birthday": "March 10, 1995",
+        "IsActive": true
+      },
+      {
+        "Name": "Dalen Terry",
+        "Birthday": "October 24, 1990",
+        "IsActive": false
+      },
+      {
+        "Name": "Nikola Vucevic",
+        "Birthday": "October 24, 1990",
+        "IsActive": true
+      },
+      {
+        "Name": "Coby White",
+        "Birthday": "February 16, 2000",
+        "IsActive": false
+      },
+      {
+        "Name": "Patrick Williams",
+        "Birthday": "August 26, 2001",
+        "IsActive": true
+      },
+      {
+        "Name": "Ayo Dosunmu",
+        "Birthday": "January 17, 2000",
+        "IsActive": true
+      }
+    ]
+  },
+  {
+    "Team": "Phoenix Suns",
+    "Players": [
+      {
+        "Name": "Deandre Ayton",
+        "Birthday": "July 23, 1998",
+        "IsActive": true
+      },
+      {
+        "Name": "Bismack Biyombo",
+        "Birthday": "August 28, 1992",
+        "IsActive": false
+      },
+      {
+        "Name": "Devin Booker",
+        "Birthday": "October 30, 1996",
+        "IsActive": false
+      },
+      {
+        "Name": "Mikal Bridges",
+        "Birthday": "August 30, 1996",
+        "IsActive": true
+      },
+      {
+        "Name": "Cameron Johnson",
+        "Birthday": "March 3, 1996",
+        "IsActive": false
+      },
+      {
+        "Name": "Chris Paul",
+        "Birthday": "May 6, 1985",
+        "IsActive": true
+      },
+      {
+        "Name": "Cameron Payne",
+        "Birthday": "August 8, 1994",
+        "IsActive": false
+      },
+      {
+        "Name": "Landry Shamet",
+        "Birthday": "March 13, 1997",
+        "IsActive": false
+      },
+      {
+        "Name": "Torrey Craig",
+        "Birthday": "December 19, 1990",
+        "IsActive": true
+      },
+      {
+        "Name": "Jock Landale",
+        "Birthday": "October 25, 1995",
+        "IsActive": true
+      }
+    ]
+  },
+  {
+    "Team": "Miami Heat",
+    "Players": [
+      {
+        "Name": "Bam Adebayo",
+        "Birthday": "July 18, 1997",
+        "IsActive": true
+      },
+      {
+        "Name": "Jimmy Butler",
+        "Birthday": "September 14, 1989",
+        "IsActive": true
+      },
+      {
+        "Name": "Dewayne Dedmon",
+        "Birthday": "August 12, 1989",
+        "IsActive": false
+      },
+      {
+        "Name": "Tyler Herro",
+        "Birthday": "January 20, 2000",
+        "IsActive": true
+      },
+      {
+        "Name": "Kyle Lowry",
+        "Birthday": "March 25, 1986",
+        "IsActive": false
+      },
+      {
+        "Name": "Caleb Martin",
+        "Birthday": "September 28, 1995",
+        "IsActive": true
+      },
+      {
+        "Name": "Victor Oladipo",
+        "Birthday": "May 4, 1992",
+        "IsActive": false
+      },
+      {
+        "Name": "Duncan Robinson",
+        "Birthday": "April 22, 1994",
+        "IsActive": false
+      },
+      {
+        "Name": "Max Strus",
+        "Birthday": "March 28, 1996",
+        "IsActive": false
+      },
+      {
+        "Name": "Gabe Vincent",
+        "Birthday": "June 14, 1996",
+        "IsActive": true
+      }
+    ]
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Players": [
+      {
+        "Name": "Patrick Beverley",
+        "Birthday": "July 12, 1988",
+        "IsActive": true
+      },
+      {
+        "Name": "Troy Brown Jr.",
+        "Birthday": "July 28, 1999",
+        "IsActive": false
+      },
+      {
+        "Name": "Thomas Bryant",
+        "Birthday": "July 31, 1997",
+        "IsActive": true
+      },
+      {
+        "Name": "Wenyen Gabriel",
+        "Birthday": "March 26, 1997",
+        "IsActive": false
+      },
+      {
+        "Name": "LeBron James",
+        "Birthday": "December 30, 1984",
+        "IsActive": true
+      },
+      {
+        "Name": "Damian Jones",
+        "Birthday": "June 30, 1995",
+        "IsActive": false
+      },
+      {
+        "Name": "Kendrick Nunn",
+        "Birthday": "August 3, 1995",
+        "IsActive": false
+      },
+      {
+        "Name": "Austin Reaves",
+        "Birthday": "May 29, 1998",
+        "IsActive": false
+      },
+      {
+        "Name": "Dennis Schroder",
+        "Birthday": "September 15, 1993",
+        "IsActive": true
+      },
+      {
+        "Name": "Juan Toscano-Anderson",
+        "Birthday": "April 10, 1993",
+        "IsActive": false
+      },
+      {
+        "Name": "Russell Westbrook",
+        "Birthday": "November 12, 1988",
+        "IsActive": false
+      },
+      {
+        "Name": "Lonnie Walker IV",
+        "Birthday": "December 14, 1998",
+        "IsActive": true
+      }
+    ]
+  },
+  {
+    "Team": "Utah Jazz",
+    "Players": [
+      {
+        "Name": "Ochai Agbaji",
+        "Birthday": "2000/04/20",
+        "IsActive": false
+      },
+      {
+        "Name": "Nickeil Alexander-Walker",
+        "Birthday": "September 2, 1998",
+        "IsActive": false
+      },
+      {
+        "Name": "Malik Beasley",
+        "Birthday": "November 26, 1996",
+        "IsActive": false
+      },
+      {
+        "Name": "Jordan Clarkson",
+        "Birthday": "June 7, 1992",
+        "IsActive": true
+      },
+      {
+        "Name": "Talen Horton-Tucker",
+        "Birthday": "November 25, 2000",
+        "IsActive": false
+      },
+      {
+        "Name": "Lauri Markkanen",
+        "Birthday": "May 22, 1997",
+        "IsActive": true
+      },
+      {
+        "Name": "Collin Sexton",
+        "Birthday": "January 4, 1999",
+        "IsActive": false
+      },
+      {
+        "Name": "Jarred Vanderbilt",
+        "Birthday": "April 3, 1999",
+        "IsActive": true
+      },
+      {
+        "Name": "Mike Conley",
+        "Birthday": "October 11, 1987",
+        "IsActive": true
+      },
+      {
+        "Name": "Kelly Olynyk",
+        "Birthday": "April 19, 1991",
+        "IsActive": true
+      }
+    ]
+  }
+]

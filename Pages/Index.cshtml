@@ -1,0 +1,25 @@
+﻿@page
+@model IndexModel
+display ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<div>
+    @{
+        foreach (var item in Model.Results.OrderBy(x => x.GameDateTimeUTC))
+        {
+            <div><strong>Team: @item.Model.Team</strong></div>
+            foreach (var player in @item.Model.Players.Where(x => x.IsActive == true))
+            {
+                <div style="display:inline-flex;padding-right: 50px"> @player.Name: <div style="display:contents"> @player.Value%</div></div>
+            }
+            <br />   
+            <div><strong>Total: @item.Model.Players.Sum(x=>x.Value) %</strong></div>
+            <br />
+        }
+    }
+</div>
