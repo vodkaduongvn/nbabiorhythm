@@ -42,12 +42,9 @@ namespace NBABiorhythm.Pages
                             foreach (var date in CreateDates())
                             {
                                 var daysDiff = Math.Round((date - DateTime.Parse(player.Birthday)).TotalDays);
-                                //var cycle = Math.Round(Math.Sin((2 * Math.PI * daysDiff) / 23) * 100);
-
                                 var cycle = daysDiff / 23;
                                 var sinus = Math.Sin((2 * Math.PI) * cycle);
                                 var percent = Math.Round(((sinus + 1) * 100) / 2);
-
                                 player.Value = percent;
                             }
                         }
