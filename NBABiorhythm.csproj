@@ -11,6 +11,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Content Update="Data\nbl.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Update="Data\data.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
