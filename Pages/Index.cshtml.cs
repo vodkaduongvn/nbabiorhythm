@@ -19,7 +19,8 @@ namespace NBABiorhythm.Pages
         public async Task OnGet()
         {
             var scheduledGames = await GetScheduledGames();
-            Results = CalPlayersBiorhythm(ReadFileData(), scheduledGames);
+            Results = CalPlayersBiorhythm(ReadFileData("nba"), scheduledGames);
+            //Results = CalPlayersBiorhythm(ReadFileData("nbl"));
         }
 
         private List<GameDateModel> CalPlayersBiorhythm(List<Model> models, ScheduledGames scheduledGames)
@@ -56,6 +57,31 @@ namespace NBABiorhythm.Pages
             return result;
         }
 
+        private List<GameDateModel> CalPlayersBiorhythm(List<Model> models)
+        {
+            //var birthday = new DateTime(1983, 5, 27);
+
+            var result = new List<GameDateModel>();
+
+            foreach (var team in models)
+            {
+                foreach (var player in team.Players.Where(x => x.IsActive == true))
+                {
+                    foreach (var date in CreateDates())
+                    {
+                        var daysDiff = Math.Round((date - DateTime.Parse(player.Birthday)).TotalDays);
+                        var cycle = daysDiff / 23;
+                        var sinus = Math.Sin((2 * Math.PI) * cycle);
+                        var percent = Math.Round(((sinus + 1) * 100) / 2);
+                        player.Value = percent;
+                    }
+                }
+                result.Add(new GameDateModel { Model = team, GameDateTimeUTC = DateTime.UtcNow });
+            }
+
+            return result;
+        }
+
         private List<DateTime> CreateDates()
         {
             var range = 0;
@@ -79,9 +105,15 @@ namespace NBABiorhythm.Pages
             return datesRange.OrderBy(x => x).ToList();
         }
 
-        private List<Model> ReadFileData()
+        private List<Model> ReadFileData(string sport)
         {
-            return JsonConvert.DeserializeObject<List<Model>>(System.IO.File.ReadAllText(@"Data\\data.json"));
+            var result = new List<Model>();
+            switch (sport)
+            {
+                case "nbl": result = JsonConvert.DeserializeObject<List<Model>>(System.IO.File.ReadAllText(@"Data\\nbl.json")); break;
+                case "nba": result = JsonConvert.DeserializeObject<List<Model>>(System.IO.File.ReadAllText(@"Data\\data.json")); break;
+            }
+            return result;
         }
 
         private async Task<ScheduledGames> GetScheduledGames()

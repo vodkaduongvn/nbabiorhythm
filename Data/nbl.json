@@ -1,0 +1,62 @@
+[
+  {
+    "Team": "Brisbane Bullets",
+    "Players": [
+      {
+        "Name": "Andrew White III",
+        "Birthday": "June 16, 1993",
+        "IsActive": true
+      },
+      {
+        "Name": "Nathan Sobey",
+        "Birthday": "July 14, 1990",
+        "IsActive": true
+      },
+      {
+        "Name": "Tanner Krebs",
+        "Birthday": "January 4, 1996",
+        "IsActive": true
+      },
+      {
+        "Name": "Gorjok Gak",
+        "Birthday": "November 9, 1996",
+        "IsActive": true
+      },
+      {
+        "Name": "Jason Cadee",
+        "Birthday": "April 15, 1991",
+        "IsActive": true
+      }
+    ]
+  },
+  {
+    "Team": "Melbourneu",
+    "Players": [
+      {
+        "Name": "Rayjon Tucker",
+        "Birthday": "September 24, 1997",
+        "IsActive": true
+      },
+      {
+        "Name": "Mason Peatling",
+        "Birthday": "March 31, 1997",
+        "IsActive": true
+      },
+      {
+        "Name": "Shea Ili",
+        "Birthday": "October 6, 1992",
+        "IsActive": true
+      },
+      {
+        "Name": "Isaac Humphries",
+        "Birthday": "January 5, 1998",
+        "IsActive": true
+      },
+      {
+        "Name": "Chris Goulding",
+        "Birthday": "October 24, 1988",
+        "IsActive": true
+      }
+    ]
+  }
+]

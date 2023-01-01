@@ -1,0 +1,122 @@
+[
+  {
+    "Team": "Fulham",
+    "Players": [
+      {
+        "Name": "Bernd Leno",
+        "Birthday": "04.03.1992",
+        "IsActive": true
+      },
+      {
+        "Name": "Kenny Tete",
+        "Birthday": "09.10.1995",
+        "IsActive": true
+      },
+      {
+        "Name": "Bobby Reid",
+        "Birthday": "02.02.1993",
+        "IsActive": true
+      },
+      {
+        "Name": "Aleksandar Mitrovic",
+        "Birthday": "16.09.1994",
+        "IsActive": true
+      },
+      {
+        "Name": "Andreas Pereira",
+        "Birthday": "01.01.1996",
+        "IsActive": true
+      },
+      {
+        "Name": "Harrison Reed",
+        "Birthday": "27.01.1995",
+        "IsActive": true
+      },
+      {
+        "Name": "Issa Diop",
+        "Birthday": "09.01.1997",
+        "IsActive": true
+      },
+      {
+        "Name": "Tim Ream",
+        "Birthday": "05.10.1987",
+        "IsActive": true
+      },
+      {
+        "Name": "Joao Palhinha",
+        "Birthday": "09.07.1995",
+        "IsActive": true
+      },
+      {
+        "Name": "Willian",
+        "Birthday": "09.08.1988",
+        "IsActive": true
+      },
+      {
+        "Name": "Antonee Robinson",
+        "Birthday": "08.08.1997",
+        "IsActive": true
+      }
+    ]
+  },
+  {
+    "Team": "Southampton",
+    "Players": [
+      {
+        "Name": "Gavin Bazunu",
+        "Birthday": "20.02.2002",
+        "IsActive": true
+      },
+      {
+        "Name": "Ainsley Maitland-Niles",
+        "Birthday": "29.08.1997",
+        "IsActive": true
+      },
+      {
+        "Name": "Samuel Edozie",
+        "Birthday": "28.01.2003",
+        "IsActive": true
+      },
+      {
+        "Name": "Mohammed Salisu",
+        "Birthday": "17.04.1999",
+        "IsActive": true
+      },
+      {
+        "Name": "Lyanco",
+        "Birthday": "01.02.1997",
+        "IsActive": true
+      },
+      {
+        "Name": "James Ward-Prowse",
+        "Birthday": "01.11.1994",
+        "IsActive": true
+      },
+      {
+        "Name": "Mohamed Elyounoussi",
+        "Birthday": "04.08.1994",
+        "IsActive": true
+      },
+      {
+        "Name": "Armel Bella-Kotchap",
+        "Birthday": "11.12.2001",
+        "IsActive": true
+      },
+      {
+        "Name": "Kyle Walker-Peters",
+        "Birthday": "13.04.1997",
+        "IsActive": true
+      },
+      {
+        "Name": "Joe Aribo",
+        "Birthday": "21.07.1996",
+        "IsActive": true
+      },
+      {
+        "Name": "Che Adams",
+        "Birthday": "13.07.1996",
+        "IsActive": true
+      }
+    ]
+  }
+]
