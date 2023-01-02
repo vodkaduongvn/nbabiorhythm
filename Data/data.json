@@ -425,7 +425,7 @@
       {
         "Name": "Zeke Nnaji",
         "Birthday": "2001/01/09",
-        "IsActive": true
+        "IsActive": false
       },
       {
         "Name": "Nikola Jokić",
@@ -435,6 +435,16 @@
       {
         "Name": "Bones Hyland",
         "Birthday": "September 14, 2000",
+        "IsActive": false
+      },
+      {
+        "Name": "Aaron Gordon",
+        "Birthday": "September 16, 1995",
+        "IsActive": true
+      },
+      {
+        "Name": "Bruce Brown",
+        "Birthday": "August 15, 1996",
         "IsActive": true
       }
     ]
@@ -590,11 +600,16 @@
       {
         "Name": "Naji Marshall",
         "Birthday": "January 24, 1998",
-        "IsActive": true
+        "IsActive": false
       },
       {
         "Name": "Trey Murphy",
         "Birthday": "June 18, 2000",
+        "IsActive": true
+      },
+      {
+        "Name": "Herbert Jones",
+        "Birthday": "October 6, 1998",
         "IsActive": true
       }
     ]
@@ -665,7 +680,7 @@
       {
         "Name": "Giannis Antetokounmpo",
         "Birthday": "December 6, 1994",
-        "IsActive": true
+        "IsActive": false
       },
       {
         "Name": "Pat Connaughton",
@@ -700,7 +715,7 @@
       {
         "Name": "Bobby Portis",
         "Birthday": "February 10, 1995",
-        "IsActive": false
+        "IsActive": true
       },
       {
         "Name": "Jordan Nwora",
@@ -840,7 +855,7 @@
       {
         "Name": "Jimmy Butler",
         "Birthday": "September 14, 1989",
-        "IsActive": true
+        "IsActive": false
       },
       {
         "Name": "Dewayne Dedmon",
@@ -855,12 +870,12 @@
       {
         "Name": "Kyle Lowry",
         "Birthday": "March 25, 1986",
-        "IsActive": false
+        "IsActive": true
       },
       {
         "Name": "Caleb Martin",
         "Birthday": "September 28, 1995",
-        "IsActive": true
+        "IsActive": false
       },
       {
         "Name": "Victor Oladipo",
@@ -875,11 +890,16 @@
       {
         "Name": "Max Strus",
         "Birthday": "March 28, 1996",
-        "IsActive": false
+        "IsActive": true
       },
       {
         "Name": "Gabe Vincent",
         "Birthday": "June 14, 1996",
+        "IsActive": false
+      },
+      {
+        "Name": "Haywood Highsmith",
+        "Birthday": "December 9, 1996",
         "IsActive": true
       }
     ]
@@ -1015,17 +1035,17 @@
       {
         "Name": "Darius Garland",
         "Birthday": "January 26, 2000",
-        "IsActive": true
+        "IsActive": false
       },
       {
         "Name": "Caris LeVert",
         "Birthday": "August 25, 1994",
-        "IsActive": false
+        "IsActive": true
       },
       {
         "Name": "Kevin Love",
         "Birthday": "September 7, 1988",
-        "IsActive": false
+        "IsActive": true
       },
       {
         "Name": "Donovan Mitchell",
@@ -1035,7 +1055,7 @@
       {
         "Name": "Evan Mobley",
         "Birthday": "June 18, 2001",
-        "IsActive": true
+        "IsActive": false
       },
       {
         "Name": "Isaac Okoro",
@@ -1180,7 +1200,7 @@
       {
         "Name": "Steven Adams",
         "Birthday": "July 20, 1993",
-        "IsActive": false
+        "IsActive": true
       },
       {
         "Name": "Dillon Brooks",
@@ -1190,17 +1210,17 @@
       {
         "Name": "Brandon Clarke",
         "Birthday": "September 19, 1996",
-        "IsActive": true
+        "IsActive": false
       },
       {
         "Name": "Danny Green",
         "Birthday": "June 22, 1987",
-        "IsActive": true
+        "IsActive": false
       },
       {
         "Name": "Jaren Jackson Jr.",
         "Birthday": "September 15, 1999",
-        "IsActive": false
+        "IsActive": true
       },
       {
         "Name": "Jake LaRavia",
@@ -1215,7 +1235,7 @@
       {
         "Name": "Ziaire Williams",
         "Birthday": "September 12, 2001",
-        "IsActive": true
+        "IsActive": false
       },
       {
         "Name": "Santi Aldama",
@@ -1225,6 +1245,16 @@
       {
         "Name": "David Roddy",
         "Birthday": "March 27, 2001",
+        "IsActive": false
+      },
+      {
+        "Name": "Desmond Bane",
+        "Birthday": "June 25, 1998",
+        "IsActive": false
+      },
+      {
+        "Name": "John Konchar",
+        "Birthday": "March 22, 1996",
         "IsActive": false
       }
     ]

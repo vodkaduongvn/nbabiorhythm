@@ -58,5 +58,35 @@
         "IsActive": true
       }
     ]
+  },
+  {
+    "Team": "Melbourneu",
+    "Players": [
+      {
+        "Name": "Rayjon Tucker",
+        "Birthday": "September 24, 1997",
+        "IsActive": true
+      },
+      {
+        "Name": "Mason Peatling",
+        "Birthday": "March 31, 1997",
+        "IsActive": true
+      },
+      {
+        "Name": "Shea Ili",
+        "Birthday": "October 6, 1992",
+        "IsActive": true
+      },
+      {
+        "Name": "Isaac Humphries",
+        "Birthday": "January 5, 1998",
+        "IsActive": true
+      },
+      {
+        "Name": "Chris Goulding",
+        "Birthday": "October 24, 1988",
+        "IsActive": true
+      }
+    ]
   }
 ]
